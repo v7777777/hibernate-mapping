@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="" />
+    <list default="true" id="2938930b-d90a-4eab-b629-6205b2cf65c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -30,6 +38,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -45,7 +54,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="дз3" />
+      <module name="hibernate-mapping" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -82,10 +91,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580743241829">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580794827270">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580743241829" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580794827270" />
     <state x="459" y="51" key="#com.intellij.ide.util.MemberChooser" timestamp="1580742022667">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -106,22 +115,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580743702019" />
-    <state width="1306" height="469" key="GridCell.Tab.0.bottom" timestamp="1580794624031">
+    <state width="1306" height="469" key="GridCell.Tab.0.bottom" timestamp="1580794879307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580794624031" />
-    <state width="1306" height="469" key="GridCell.Tab.0.center" timestamp="1580794624031">
+    <state width="1306" height="469" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1580794879307" />
+    <state width="1306" height="469" key="GridCell.Tab.0.center" timestamp="1580794879307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580794624031" />
-    <state width="1306" height="469" key="GridCell.Tab.0.left" timestamp="1580794624031">
+    <state width="1306" height="469" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1580794879307" />
+    <state width="1306" height="469" key="GridCell.Tab.0.left" timestamp="1580794879307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580794624031" />
-    <state width="1306" height="469" key="GridCell.Tab.0.right" timestamp="1580794624031">
+    <state width="1306" height="469" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1580794879307" />
+    <state width="1306" height="469" key="GridCell.Tab.0.right" timestamp="1580794879307">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1306" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580794624031" />
+    <state width="1306" height="469" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1580794879307" />
     <state width="1322" height="256" key="GridCell.Tab.1.bottom" timestamp="1580716094860">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -138,10 +147,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1322" height="256" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1580716094860" />
-    <state x="186" y="0" key="SettingsEditor" timestamp="1580743253803">
+    <state x="186" y="0" key="SettingsEditor" timestamp="1580794843297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580743253803" />
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580794843297" />
     <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1580479232536">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
